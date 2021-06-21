@@ -1,26 +1,26 @@
 .navbar {
-    background:transparent;
-    position:absolute;
+    background: transparent;
+    position: absolute;
     font-family: 'Montserrat', sans-serfif;
 }
 
 .leaders {
     background-image: url("happyBanner.png");
     background-size: cover;
-    height:550px;
-    width:auto;
+    height: 550px;
+    width: auto;
     min-height: 750px;
-    font-family: 'Montserrat', sans-serif; 
+    font-family: 'Montserrat', sans-serif;
 }
 
 .jumboCycle {
     color: white;
-    padding-top:10%;
-    padding-left:10%;
+    padding-top: 10%;
+    padding-left: 10%;
 }
 
 #messagebox {
-    color:orange;
+    color: orange;
 }
 
 .bannerTitle {
@@ -41,12 +41,12 @@
 }
 
 .topdrawer {
-    padding-bottom:2em;
+    padding-bottom: 2em;
 
 }
 
 .bottomdrawer {
-    padding-bottom:2em;
+    padding-bottom: 2em;
 }
 
 .skillsBlock {
@@ -61,10 +61,10 @@ ul {
 .aboutMe {
     background-image: url("about\ me.png");
     background-size: cover;
-    height:auto;
-    width:auto;
-    min-height:500px;
-    font-family: 'Montserrat', sans-serif; 
+    height: auto;
+    width: auto;
+    min-height: 500px;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .frontEndImg {
@@ -78,11 +78,11 @@ ul {
 }
 
 .how-img {
-    width:30rem;
+    width: 30rem;
 }
 
 .skillBlockSet {
-    padding-top:2rem;
+    padding-top: 2rem;
     padding-bottom: 5rem;
 }
 
@@ -97,22 +97,22 @@ ul {
 
 .liSet {
     display: flex;
-    padding-bottom:1rem;
+    padding-bottom: 1rem;
     padding-top: 2rem;
 }
 
 .iconSet {
-    font-size:1.5rem;
+    font-size: 1.5rem;
     padding-right: 1rem;
 }
 
 .hobbies {
     background-image: url("hobbies.png");
     background-size: cover;
-    height:auto;
-    width:auto;
-    min-height:850px;
-    font-family: 'Montserrat', sans-serif; 
+    height: auto;
+    width: auto;
+    min-height: 850px;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .contactMe {
@@ -121,7 +121,7 @@ ul {
     padding-bottom: 4rem;
 }
 
- 
+
 /* reusable classes for front-end */
 .whiteOut {
     color: white;
@@ -153,7 +153,7 @@ ul {
 
 .violetTitle {
     font-size: 2rem;
-    color:blueviolet;
+    color: blueviolet;
     padding-left: 2rem;
 }
 
@@ -162,5 +162,3 @@ ul {
     display: inline-block;
     width: 50rem;
 }
-
-
