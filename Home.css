@@ -1,0 +1,160 @@
+.navbar {
+    background:transparent;
+    position:absolute;
+    font-family: 'Montserrat', sans-serfif;
+}
+
+.leaders {
+    background-image: url("happyBanner.png");
+    background-size: cover;
+    height:550px;
+    width:auto;
+    min-height: 750px;
+    font-family: 'Montserrat', sans-serif; 
+}
+
+.jumboCycle {
+    color: white;
+    padding-top:10%;
+    padding-left:10%;
+}
+
+#messagebox {
+    color:orange;
+}
+
+.bannerTitle {
+    font-size: 2.5em;
+    padding-top: 1.5em;
+    margin-left: 2em;
+    padding-bottom: 1.5em;
+}
+
+.titleHeader {
+    font-family: 'Montserrat';
+    padding-top: 5em;
+    padding-bottom: 2em;
+}
+
+.shimanoProj {
+    width: 30rem;
+}
+
+.topdrawer {
+    padding-bottom:2em;
+
+}
+
+.bottomdrawer {
+    padding-bottom:2em;
+}
+
+.skillsBlock {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+ul {
+    list-style-type: none
+}
+
+.aboutMe {
+    background-image: url("about\ me.png");
+    background-size: cover;
+    height:auto;
+    width:auto;
+    min-height:500px;
+    font-family: 'Montserrat', sans-serif; 
+}
+
+.frontEndImg {
+    padding-top: 3.5rem;
+}
+
+
+.backEndImg {
+    height: 15rem;
+    padding-left: 5rem;
+}
+
+.how-img {
+    width:30rem;
+}
+
+.skillBlockSet {
+    padding-top:2rem;
+    padding-bottom: 5rem;
+}
+
+.setList {
+    margin-left: 5%;
+}
+
+.inlineSet {
+    display: inline-flex;
+
+}
+
+.liSet {
+    display: flex;
+    padding-bottom:1rem;
+    padding-top: 2rem;
+}
+
+.iconSet {
+    font-size:1.5rem;
+    padding-right: 1rem;
+}
+
+.hobbies {
+    background-image: url("hobbies.png");
+    background-size: cover;
+    height:auto;
+    width:auto;
+    min-height:850px;
+    font-family: 'Montserrat', sans-serif; 
+}
+
+ 
+/* reusable classes for front-end */
+.whiteOut {
+    color: white;
+}
+
+.rowPadding {
+    padding-top: 5rem;
+}
+
+.setMargins {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.purpleTitle {
+    font-size: 3rem;
+    color: rebeccapurple;
+}
+
+.pinkTitle {
+    font-size: 3rem;
+    color: deeppink
+}
+
+.blueTitle {
+    font-size: 3rem;
+    color: deepskyblue
+}
+
+.violetTitle {
+    font-size: 2rem;
+    color:blueviolet;
+    padding-left: 2rem;
+}
+
+.hrLine {
+    border: 1px solid orange;
+    display: inline-block;
+    width: 50rem;
+}
+
+
