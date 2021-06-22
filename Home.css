@@ -106,13 +106,9 @@ ul {
     padding-right: 1rem;
 }
 
-.hobbies {
-    background-image: url("hobbies.png");
-    background-size: cover;
-    height: auto;
-    width: auto;
-    min-height: 850px;
-    font-family: 'Montserrat', sans-serif;
+.soccerImg {
+    height: 20rem;
+    padding-left: 5rem;
 }
 
 .contactMe {
