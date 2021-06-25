@@ -107,7 +107,13 @@ ul {
 
 .tiagLogo {
     padding-left: 10rem;
-    padding-top: 2rem;
+    padding-top: 5rem;
+}
+
+.vueLogo {
+    width: 30rem;
+    padding-left: 10rem;
+    padding-top: 4rem;
 }
 
 .soccerImg {
@@ -155,6 +161,11 @@ ul {
     font-size: 2rem;
     color: blueviolet;
     padding-left: 2rem;
+}
+
+.greenTitle {
+    font-size: 3rem;
+    color: #3FB984;
 }
 
 .hrLine {
