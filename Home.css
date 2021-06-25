@@ -83,7 +83,6 @@ ul {
 
 .skillBlockSet {
     padding-top: 2rem;
-    padding-bottom: 5rem;
 }
 
 .setList {
@@ -104,6 +103,11 @@ ul {
 .iconSet {
     font-size: 1.5rem;
     padding-right: 1rem;
+}
+
+.tiagLogo {
+    padding-left: 10rem;
+    padding-top: 5rem;
 }
 
 .soccerImg {
