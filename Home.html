@@ -189,38 +189,6 @@
 
   </div>
 
-  <!-- vue section -->
-
-  <div class="row rowPadding setMargins">
-
-  <div class="titleHeader text-center">
-    <h1>What I am working on right now:</h1>
-    <hr class="hrLine">
-    </hr>
-  </div>
-
-    <div class="col-md-6">
-      <h4 class="greenTitle">Vue.js</h4>
-      <h4 class="subheading">A work in progress</h4>
-      <div id="vueExample" v-bind:title="timestamp" class="experiment-block">{{ vueParagraph }}</div>
-    </div>
-
-    <div class="col-md-6 how-img">
-      <img src="vueLogo.png" class="vueLogo img-fluid" alt="simple back-end logo">
-    </div>
-  </div>
-
-    <script>
-      new Vue({
-        el: "#vueExample",
-        data: {
-          vueParagraph: "Recently, I was informed that I would start using Vue.js on a new project at work. Naturally I was very excited because I have been looking at the Vue.js framework for a long time and was on the fence about whether I should choose React or even Angular. I'm glad I got the push over the edge that I needed to start down the path of learning Vue.js as a front-end framework. I already write in JavaScript, HTML, and CSS frequently so picking up Vue.js was fairly easy. This Paragraph is ironically a drop in Vue.js component! Instead of refactoring entire apps with React, Vue.js allows me to plug in Vue components when I need them, where I need them, and that added flexibility goes a long way in the work that I'm doing with various Sharepoint related sites and legacy code. Enjoy!",
-        },
-      })
-    </script>
-
-  </div>
-
 
   <!-- projects -->
   <a id="collabs"></a>
@@ -283,6 +251,38 @@
       </main></p>
     </div>
   
+  </div>
+
+<!-- vue section -->
+
+  <div class="row rowPadding setMargins">
+
+  <div class="titleHeader text-center">
+    <h1>What I am working on right now:</h1>
+    <hr class="hrLine">
+    </hr>
+  </div>
+
+    <div class="col-md-6">
+      <h4 class="greenTitle">Vue.js</h4>
+      <h4 class="subheading">A work in progress</h4>
+      <div id="vueExample" v-bind:title="timestamp" class="experiment-block">{{ vueParagraph }}</div>
+    </div>
+
+    <div class="col-md-6 how-img">
+      <img src="vueLogo.png" class="vueLogo img-fluid" alt="simple back-end logo">
+    </div>
+  </div>
+
+    <script>
+      new Vue({
+        el: "#vueExample",
+        data: {
+          vueParagraph: "Recently, I was informed that I would start using Vue.js on a new project at work. Naturally I was very excited because I have been looking at the Vue.js framework for a long time and was on the fence about whether I should choose React or even Angular. I'm glad I got the push over the edge that I needed to start down the path of learning Vue.js as a front-end framework. I already write in JavaScript, HTML, and CSS frequently so picking up Vue.js was fairly easy. This Paragraph is ironically a drop in Vue.js component! Instead of refactoring entire apps with React, Vue.js allows me to plug in Vue components when I need them, where I need them, and that added flexibility goes a long way in the work that I'm doing with various Sharepoint related sites and legacy code. Enjoy!",
+        },
+      })
+    </script>
+
   </div>
 
   <!-- contact us -->
